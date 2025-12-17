@@ -3,7 +3,6 @@
     {"name": "Attack Hole", "file": "main-games/Attack Hole.html"},
     {"name": "Bacon May Die", "file": "main-games/Bacon May Die.html"},
     {"name": "Bad Parenting 1", "file": "main-games/Bad Parenting 1.html"},
-    {"name": "Baldi's Basics", "file": "main-games/baldis-basics.html"},
     {"name": "Bank Robbery 2", "file": "main-games/Bank Robbery 2.html"},
     {"name": "Basket Random", "file": "main-games/Basket Random.html"},
     {"name": "Basketball Stars", "file": "main-games/Basketball Stars.html"},
@@ -51,3 +50,4 @@
     {"name": "Tomb Of The Mask", "file": "main-games/Tomb Of The Mask.html"},
     {"name": "Undertale Yellow", "file": "main-games/undertale-yellow.html"}
 ]
+
